@@ -1,4 +1,4 @@
-baseurl = "https://www.automox.com/docs/"
+baseurl = "https://shielded-forest-95842.herokuapp.com"
 languageCode = "en-us"
 title = "Automox Documentation"
 theme = "automox-doc-theme"

@@ -3,17 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.automox.com/docs/</loc>
+    <loc>https://shielded-forest-95842.herokuapp.com/settings/</loc>
+    <lastmod>2018-02-08T18:24:56-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shielded-forest-95842.herokuapp.com/software/</loc>
+    <lastmod>2018-02-08T18:24:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shielded-forest-95842.herokuapp.com/reports/</loc>
+    <lastmod>2018-02-08T18:24:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shielded-forest-95842.herokuapp.com/system_management/</loc>
+    <lastmod>2018-02-08T16:04:22-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shielded-forest-95842.herokuapp.com/api_documentation/</loc>
+    <lastmod>2018-02-08T16:04:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shielded-forest-95842.herokuapp.com/devices/</loc>
+    <lastmod>2018-02-08T16:04:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shielded-forest-95842.herokuapp.com/dashboard/</loc>
+    <lastmod>2018-02-08T16:03:57-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shielded-forest-95842.herokuapp.com/agent_installation/</loc>
+    <lastmod>2018-02-08T16:03:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shielded-forest-95842.herokuapp.com/</loc>
+    <lastmod>2018-02-08T18:24:56-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.automox.com/docs/categories/</loc>
+    <loc>https://shielded-forest-95842.herokuapp.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.automox.com/docs/tags/</loc>
+    <loc>https://shielded-forest-95842.herokuapp.com/tags/</loc>
     <priority>0</priority>
   </url>
   
