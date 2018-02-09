@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Automox Documentation</title>
-    <link>https://shielded-forest-95842.herokuapp.com/</link>
+    <link>https://automox-docs-staging.herokuapp.com/</link>
     <description>Recent content on Automox Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Feb 2018 18:24:56 -0700</lastBuildDate>
     
-	<atom:link href="https://shielded-forest-95842.herokuapp.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://automox-docs-staging.herokuapp.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Settings</title>
-      <link>https://shielded-forest-95842.herokuapp.com/settings/</link>
+      <link>https://automox-docs-staging.herokuapp.com/settings/</link>
       <pubDate>Thu, 08 Feb 2018 18:24:56 -0700</pubDate>
       
-      <guid>https://shielded-forest-95842.herokuapp.com/settings/</guid>
+      <guid>https://automox-docs-staging.herokuapp.com/settings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software</title>
-      <link>https://shielded-forest-95842.herokuapp.com/software/</link>
+      <link>https://automox-docs-staging.herokuapp.com/software/</link>
       <pubDate>Thu, 08 Feb 2018 18:24:50 -0700</pubDate>
       
-      <guid>https://shielded-forest-95842.herokuapp.com/software/</guid>
+      <guid>https://automox-docs-staging.herokuapp.com/software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reports</title>
-      <link>https://shielded-forest-95842.herokuapp.com/reports/</link>
+      <link>https://automox-docs-staging.herokuapp.com/reports/</link>
       <pubDate>Thu, 08 Feb 2018 18:24:45 -0700</pubDate>
       
-      <guid>https://shielded-forest-95842.herokuapp.com/reports/</guid>
+      <guid>https://automox-docs-staging.herokuapp.com/reports/</guid>
       <description></description>
     </item>
     
     <item>
       <title>System Management</title>
-      <link>https://shielded-forest-95842.herokuapp.com/system_management/</link>
+      <link>https://automox-docs-staging.herokuapp.com/system_management/</link>
       <pubDate>Thu, 08 Feb 2018 16:04:22 -0700</pubDate>
       
-      <guid>https://shielded-forest-95842.herokuapp.com/system_management/</guid>
+      <guid>https://automox-docs-staging.herokuapp.com/system_management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Api Documentation</title>
-      <link>https://shielded-forest-95842.herokuapp.com/api_documentation/</link>
+      <link>https://automox-docs-staging.herokuapp.com/api_documentation/</link>
       <pubDate>Thu, 08 Feb 2018 16:04:12 -0700</pubDate>
       
-      <guid>https://shielded-forest-95842.herokuapp.com/api_documentation/</guid>
+      <guid>https://automox-docs-staging.herokuapp.com/api_documentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Devices</title>
-      <link>https://shielded-forest-95842.herokuapp.com/devices/</link>
+      <link>https://automox-docs-staging.herokuapp.com/devices/</link>
       <pubDate>Thu, 08 Feb 2018 16:04:02 -0700</pubDate>
       
-      <guid>https://shielded-forest-95842.herokuapp.com/devices/</guid>
+      <guid>https://automox-docs-staging.herokuapp.com/devices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dashboard</title>
-      <link>https://shielded-forest-95842.herokuapp.com/dashboard/</link>
+      <link>https://automox-docs-staging.herokuapp.com/dashboard/</link>
       <pubDate>Thu, 08 Feb 2018 16:03:57 -0700</pubDate>
       
-      <guid>https://shielded-forest-95842.herokuapp.com/dashboard/</guid>
+      <guid>https://automox-docs-staging.herokuapp.com/dashboard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Agent Installation</title>
-      <link>https://shielded-forest-95842.herokuapp.com/agent_installation/</link>
+      <link>https://automox-docs-staging.herokuapp.com/agent_installation/</link>
       <pubDate>Thu, 08 Feb 2018 16:03:49 -0700</pubDate>
       
-      <guid>https://shielded-forest-95842.herokuapp.com/agent_installation/</guid>
+      <guid>https://automox-docs-staging.herokuapp.com/agent_installation/</guid>
       <description></description>
     </item>
     

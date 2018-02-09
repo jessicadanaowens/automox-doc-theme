@@ -3,21 +3,22 @@
   <component name="ChangeListManager">
     <list default="true" id="62cafff1-7c3c-4862-afe6-44635b27db56" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.toml" afterPath="$PROJECT_DIR$/config.toml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/agent_installation/index.html" afterPath="$PROJECT_DIR$/public/agent_installation/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/api_documentation/index.html" afterPath="$PROJECT_DIR$/public/api_documentation/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/categories/index.html" afterPath="$PROJECT_DIR$/public/categories/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/categories/index.xml" afterPath="$PROJECT_DIR$/public/categories/index.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/dashboard/index.html" afterPath="$PROJECT_DIR$/public/dashboard/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/devices/index.html" afterPath="$PROJECT_DIR$/public/devices/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.xml" afterPath="$PROJECT_DIR$/public/index.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/reports/index.html" afterPath="$PROJECT_DIR$/public/reports/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/settings/index.html" afterPath="$PROJECT_DIR$/public/settings/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/sitemap.xml" afterPath="$PROJECT_DIR$/public/sitemap.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/software/index.html" afterPath="$PROJECT_DIR$/public/software/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/style.css" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/system_management/index.html" afterPath="$PROJECT_DIR$/public/system_management/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/index.html" afterPath="$PROJECT_DIR$/public/tags/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/automox-doc-theme/layouts/_default/list.html" afterPath="$PROJECT_DIR$/themes/automox-doc-theme/layouts/_default/list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/automox-doc-theme/layouts/_default/single.html" afterPath="$PROJECT_DIR$/themes/automox-doc-theme/layouts/_default/single.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/automox-doc-theme/static/stylesheets/style.css" afterPath="$PROJECT_DIR$/themes/automox-doc-theme/static/stylesheets/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/index.xml" afterPath="$PROJECT_DIR$/public/tags/index.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="config.toml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="config.toml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="54" lean-forward="false" selection-start-line="0" selection-start-column="54" selection-end-line="0" selection-end-column="54" />
+              <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -78,12 +79,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1518219382000" expanded="true" signature="30637:30679" ph="..." />
+                <marker date="1518219382000" expanded="true" signature="30637:30697" ph="..." />
+                <marker date="1518219382000" expanded="true" signature="30637:30710" ph="..." />
+                <marker date="1518219382000" expanded="true" signature="30637:30725" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -159,10 +165,11 @@
         <option value="$PROJECT_DIR$/content/settings.md" />
         <option value="$PROJECT_DIR$/content/software.md" />
         <option value="$PROJECT_DIR$/content/system_management.md" />
-        <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/themes/automox-doc-theme/layouts/_default/list.html" />
         <option value="$PROJECT_DIR$/themes/automox-doc-theme/layouts/_default/single.html" />
         <option value="$PROJECT_DIR$/themes/automox-doc-theme/static/stylesheets/style.css" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/config.toml" />
       </list>
     </option>
   </component>
@@ -303,12 +310,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518216086099</updated>
-      <workItem from="1518216087338" duration="1625000" />
+      <workItem from="1518216087338" duration="1953000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1625000" />
+    <option name="totallyTimeSpent" value="1953000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -455,14 +462,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="54" lean-forward="false" selection-start-line="0" selection-start-column="54" selection-end-line="0" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/automox-doc-theme/layouts/partials/hero.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -507,6 +506,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1518219382000" expanded="true" signature="30637:30679" ph="..." />
+            <marker date="1518219382000" expanded="true" signature="30637:30697" ph="..." />
+            <marker date="1518219382000" expanded="true" signature="30637:30710" ph="..." />
+            <marker date="1518219382000" expanded="true" signature="30637:30725" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
           <folding />
         </state>
       </provider>
