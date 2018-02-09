@@ -56,7 +56,7 @@ body {
 .hero {
     margin-top: 57px;
     background: #0a0a0a;
-    background-image: url("/docs/img/hero-min.png");
+    background-image: url("/img/hero-min.png");
     background-size: cover;
     padding-bottom: 200px;
 }
