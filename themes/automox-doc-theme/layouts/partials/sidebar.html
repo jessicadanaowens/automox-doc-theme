@@ -1,0 +1,21 @@
+<div class="sidebar flex-container flex-column">
+    <div class="doc-nav flex-container flex-column">
+        <h3 class="section-title"> Documentation Navigation </h3>
+        <hr class="single-page">
+
+        {{ range .Site.RegularPages }}
+        <a href="{{.URL}}" class="doc-nav-link">{{ .Title }}</a>
+        {{ range .Sections }}
+        <a href="{{.URL}}" class="doc-nav-link">{{ .Title }}</a>
+        {{ end }}
+
+        {{ end }}
+
+        {{ range .Site.Params.sections }}
+        <h3 class="section-title">{{.Name}}</h3>
+        {{ end }}
+
+
+
+    </div>
+</div>

@@ -1,0 +1,5 @@
+baseurl = "https://www.automox.com/docs/"
+languageCode = "en-us"
+title = "Automox Documentation"
+theme = "automox-doc-theme"
+logo = "images/automox-logo-header.png"
