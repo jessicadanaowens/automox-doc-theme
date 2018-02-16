@@ -326,6 +326,10 @@ p.documentation-nav:first-child {
     display: none;
 }
 
+a.headerlink {
+    display: none;
+}
+
 .sidebar {
     display: none;
     padding-bottom: 150px;
