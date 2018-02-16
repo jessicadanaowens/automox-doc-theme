@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://automox-docs-staging.herokuapp.com/settings/</loc>
+    <loc>https://automox-docs-staging.herokuapp.com/docs/settings/</loc>
     <lastmod>2018-02-08T18:24:56-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://automox-docs-staging.herokuapp.com/software/</loc>
+    <loc>https://automox-docs-staging.herokuapp.com/docs/software/</loc>
     <lastmod>2018-02-08T18:24:50-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://automox-docs-staging.herokuapp.com/reports/</loc>
-    <lastmod>2018-02-08T18:24:45-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://automox-docs-staging.herokuapp.com/system_management/</loc>
+    <loc>https://automox-docs-staging.herokuapp.com/docs/reports/</loc>
     <lastmod>2018-02-08T16:04:22-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://automox-docs-staging.herokuapp.com/api_documentation/</loc>
+    <loc>https://automox-docs-staging.herokuapp.com/docs/system_management/</loc>
+    <lastmod>2018-02-08T16:04:22-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://automox-docs-staging.herokuapp.com/docs/api_documentation/</loc>
     <lastmod>2018-02-08T16:04:12-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://automox-docs-staging.herokuapp.com/devices/</loc>
+    <loc>https://automox-docs-staging.herokuapp.com/docs/devices/</loc>
     <lastmod>2018-02-08T16:04:02-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://automox-docs-staging.herokuapp.com/dashboard/</loc>
+    <loc>https://automox-docs-staging.herokuapp.com/docs/dashboard/</loc>
     <lastmod>2018-02-08T16:03:57-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://automox-docs-staging.herokuapp.com/agent_installation/</loc>
+    <loc>https://automox-docs-staging.herokuapp.com/docs/agent_installation/</loc>
     <lastmod>2018-02-08T16:03:49-07:00</lastmod>
   </url>
   
@@ -50,6 +50,12 @@
   
   <url>
     <loc>https://automox-docs-staging.herokuapp.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://automox-docs-staging.herokuapp.com/docs/</loc>
+    <lastmod>2018-02-08T18:24:56-07:00</lastmod>
     <priority>0</priority>
   </url>
   

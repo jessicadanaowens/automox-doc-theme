@@ -1,0 +1,21 @@
+{{ $currentNode := . }}
+
+<ul class="hide">
+{{ range .Site.Menus.mainmenu }}
+
+{{ $.Scratch.Set "currentMenuEntry" . }}
+<li>
+    {{ if .HasChildren }}
+    <span class="section">{{ .Name | title }} <i class="icon-caret-down"> </i></span>
+    <ul>
+        {{ range .Children }}
+        {{ $.Scratch.Set "currentMenuEntry" . }}
+        {{ partial "nav_link" $currentNode }}
+        {{ end }}
+    </ul>
+    {{ else }}
+    {{ partial "nav_link" $currentNode }}
+    {{ end }}
+</li>
+{{ end }}
+</ul>

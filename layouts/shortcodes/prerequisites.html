@@ -1,0 +1,7 @@
+<div class='note prerequisites {{ .Get "color" }} container-flex flex-align-center'>
+    <i class="icon-info icon-2x"> </i>
+    <div class="contents">
+        <p class="title">{{ .Get "title" }}</p>
+        {{ printf "%s" .Inner | markdownify }}
+    </div>
+</div>

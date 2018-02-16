@@ -1,4 +1,220 @@
-<div style="height:35px;"></div>
-<div style=" position:fixed; color: white; height:35px; background-color:#757575; bottom:0px; text-align:center; width:99%">
-     <p style="margin:10px; "><a style="color: white; " target="_blank" href="http://www.giraffeacademy.com/">Giraffe Academy</a> - Hugo Theme</p>
-</div>
+<footer class="footer">
+     <div class="container">
+          <div class="columns is-hidden-touch">
+               <div class="column">
+                    <div class="footer-logo">
+                         <a href="https://www.automox.com"><img src='{{ "img/full-logo.svg" | absURL }}' /></a>
+                    </div>
+                    <ul class="contact-list">
+                         <li>
+                              <a href="mailto:info@automox.com">info@automox.com</a>
+
+                         </li>
+                         <li>
+                              <a href="tel:7202402495" class="is-white">Sales: 720.440.2495</a>
+                         </li>
+                         <li>
+                              <a href="https://goo.gl/maps/p25sRciWBpC2">1909 Broadway, Suite 200<br> Boulder, CO 80302 </a>
+                         </li>
+                    </ul>
+               </div>
+
+               <div class="column is-hidden-touch">
+                    <ul class="footer-list">
+                         <li> Solutions</li>
+                         <ul class="secondary-list">
+                              <li>
+                                   <a href="www.automox.com/visibility">Visibility</a>
+                              </li>
+                              <li>
+                                   <a href="www.automox.com/automation">Automation</a>
+                              </li>
+                              <li>
+                                   <a href="www.automox.com/control">Control</a>
+                              </li>
+                         </ul>
+                    </ul>
+               </div>
+
+               <div class="column is-hidden-touch">
+                    <ul class="footer-list">
+                         <li>
+                              <a href="www.automox.com/how-it-works">How It Works</a>
+                         </li>
+                         <li>
+                              <a href="www.automox.com/pricing">Pricing</a>
+                         </li>
+                         <li>
+                              <a href="{{ .Site.BaseURL }}">Documentation</a>
+                         </li>
+                         <li>
+                              <a href="www.automox.com/support">Support</a>
+                         </li>
+                         <li>
+                              <a href="www.automox.com/security">Automox Security</a>
+                         </li>
+                    </ul>
+               </div>
+
+               <div class="column">
+                    <ul class="footer-list is-hidden-touch">
+                         <li>
+                              <a href="www.automox.com/support">About Us</a>
+                         </li>
+                         <li>
+                              <a href="www.automox.com/careers">Careers</a>
+                         </li>
+                         <li>
+                              <a href="www.automox.com/blog">Blog</a>
+                         </li>
+                    </ul>
+
+                    <div class="social-icons flex-container">
+                         <a class="icon icon-facebook" href="https://www.facebook.com/automox"></a>
+                         <a class="icon icon-twitter" href="https://twitter.com/automoxapp"></a>
+                         <a class="icon icon-linkedin" href="https://www.linkedin.com/company/automox"></a>
+                    </div>
+               </div>
+          </div>
+     </div>
+
+     <div class="columns is-hidden-touch">
+          <div class="column">
+               <p class="footer-credit">
+                    © 2018 Automox Technologies, Inc. All rights reserved
+                    <a href="https://www.automox.com/terms-of-service">Terms of Service</a>
+               </p>
+          </div>
+     </div>
+</footer>
+
+
+
+<script>
+    {{ "/* Add headers to scrollspy */" | safeJS }}
+    var headers   = document.getElementsByTagName("h2");
+    var scrollspy = document.getElementById('scrollspy');
+
+    if(scrollspy) {
+        if(headers.length > 0) {
+            for(var i = 0; i < headers.length; i++) {
+                var li = document.createElement("li");
+                li.setAttribute("class", "anchor");
+
+                var a  = document.createElement("a");
+                a.setAttribute("href", "#" + headers[i].id);
+                a.setAttribute("title", headers[i].innerHTML);
+                a.innerHTML = headers[i].innerHTML;
+
+                li.appendChild(a)
+                scrollspy.appendChild(li);
+            }
+        } else {
+            scrollspy.parentElement.removeChild(scrollspy)
+        }
+
+
+        {{ "/* Add permanent link next to the headers */" | safeJS }}
+        var headers = document.querySelectorAll("h1, h2, h3, h4, h5, h6");
+
+        for(var i = 0; i < headers.length; i++) {
+            var a = document.createElement("a");
+            a.setAttribute("class", "headerlink");
+            a.setAttribute("href", "#" + headers[i].id);
+            a.setAttribute("title", "Permanent link")
+            a.innerHTML = {{ or .Site.Params.permalink "¶" }};
+            headers[i].appendChild(a);
+        }
+    }
+
+    {{ "/* Add smooth anchor scroll*/" | safeJS }}
+    $(document).on('click', 'a[href^="#"]', function (event) {
+        event.preventDefault();
+
+        $('html, body').animate({
+            scrollTop: $($.attr(this, 'href')).offset().top
+        }, 500);
+    });
+
+    {{ "/* Copy markdown to clipboard */" | safeJS }}
+
+    $('button.copy').on('click', function (event) {
+        // create hidden text element, if it doesn't already exist
+        event.target.innerText = 'Copied!';
+        setTimeout(function () {
+            event.target.innerText = 'Copy';
+        }, 500);
+        var elem = event.target.nextElementSibling;
+        var targetId = "_hiddenCopyText_";
+
+        // must use a temporary form element for the selection and copy
+        target = document.getElementById(targetId);
+        if (!target) {
+           var target = document.createElement("textarea");
+           target.style.position = "absolute";
+           target.style.left = "-9999px";
+           target.style.top = "0";
+           target.id = targetId;
+           document.body.appendChild(target);
+        }
+        target.textContent = elem.textContent;
+
+        // select the content
+        target.select();
+
+        // copy the selection
+        var succeed;
+        try {
+            succeed = document.execCommand("copy");
+        } catch(e) {
+            succeed = false;
+        }
+
+        target.textContent = "";
+        return succeed;
+    });
+
+    {{ "/* fix the sidenav position */" | safeJS }}
+
+    $(window).scroll(function () {
+        if (window.scrollY >= 336 && $('.sidebar').attr('data-fixed-sidebar') == "true ") {
+            $('.sidebar').addClass('fixed');
+        } else {
+            $('.sidebar').removeClass('fixed');
+        }
+    });
+
+    {{ "/* mobile menu */" | safeJS }}
+
+    $('.navbar-burger').on('click', function (e) {
+        $('.navbar-burger').toggleClass('is-active');
+        $('.navbar').toggleClass('mobile');
+    });
+
+    {{ "/* modal */" | safeJS }}
+    var modal = document.querySelector("#modal");
+    var modalOverlay = document.querySelector("#modal-overlay");
+    var closeButton = document.querySelector("i.icon-close");
+
+    if (closeButton) {
+        closeButton.addEventListener("click", function() {
+            modal.classList.toggle("closed");
+            modalOverlay.classList.toggle("closed");
+        });
+    }
+
+    $('.with-img-modal').on("click", function(e) {
+        var src = e.target.src;
+        $('#modal-img')[0].src = src;
+        modal.classList.toggle("closed");
+        modalOverlay.classList.toggle("closed");
+    });
+
+    {{ "/* toggle sidebar nav items */" | safeJS }}
+     $('.documentation-nav').on('click', function (e) {
+         $(e.target.nextElementSibling.nextElementSibling).slideToggle();
+         $(e.target).toggleClass('hidden-menu');
+     });
+
+</script>
+

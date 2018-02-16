@@ -1,5 +1,5 @@
 <div class="navbar flex-container flex-align-center">
-    <a href="{{ .Site.BaseURL }}" class="navbar-item not-hoverable"><img src='{{ "img/full-logo.svg" | absURL }}' /></a>
+    <a href="https://www.automox.com" class="navbar-item not-hoverable"><img src='{{ "img/full-logo.svg" | absURL }}' /></a>
 
     <div class="navbar-burger flex-container flex-column space-between" data-target="main-navigation">
         <span></span>
@@ -22,16 +22,24 @@
 
             <a href="https://www.automox.com/pricing" class="navbar-item">Pricing</a>
 
-            <a href="{{ .Site.BaseURL }}" class="navbar-item">Documentation</a>
+            <a href="{{ .Site.BaseURL }}" class="navbar-item documentation-desktop">Documentation</a>
 
-            <a href="https://www.automox.com/support" class="navbar-item">Support</a>
+            <div class="navbar-item has-dropdown is-hoverable documentation-mobile">
+                <a href="{{ .Site.BaseURL }}" class="navbar-link">Documentation</a>
+                <div class="navbar-dropdown flex-container flex-column">
+                    {{ range .Site.Menus.mainmenu }}
+                        <a href="{{ .URL }}" class="navbar-item">{{ .Name }}</a>
+                    {{ end }}
+                </div>
+            </div>
+
+            <a href="https://support.automox.com/hc/en-us" class="navbar-item">Support</a>
 
             <a href="https://www.automox.com/blog" class="navbar-item">Blog</a>
 
             <div class="navbar-item has-dropdown is-hoverable">
                 <a class="navbar-link">Contact</a>
                 <div class="navbar-dropdown flex-container flex-column">
-                    <a class="lets talk navbar-item">Email</a>
                     <a href="https://www.facebook.com/automox" class="navbar-item">Facebook</a>
                     <a href="https://twitter.com/automoxapp" class="navbar-item">Twitter</a>
                     <a href="https://www.linkedin.com/company/automox" class="navbar-item">LinkedIn</a>
