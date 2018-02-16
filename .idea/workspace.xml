@@ -2,9 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62cafff1-7c3c-4862-afe6-44635b27db56" name="Default" comment="regenerated public folder">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/related_documents/agent_installation/advanced_installation_options.md" afterPath="$PROJECT_DIR$/content/related_documents/agent_installation/advanced_installation_options.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/related_documents/agent_installation/deploying_the_agent_to_devices_in_bulk.md" afterPath="$PROJECT_DIR$/content/related_documents/agent_installation/deploying_the_agent_to_devices_in_bulk.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/related_documents/agent_installation/installation_best_practices.md" afterPath="$PROJECT_DIR$/content/related_documents/agent_installation/installation_best_practices.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/categories/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/categories/index.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/full-logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/hero-min.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/install-step3-min.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/install-step4-min.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/index.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascripts/algolia_search.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/sitemap.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/stylesheets/algolia_search.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/stylesheets/header.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/stylesheets/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/stylesheets/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/tags/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/tags/index.xml" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -281,84 +295,6 @@
               <item name="test2" type="462c0819:PsiDirectoryNode" />
               <item name="archetypes" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="related_documents" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="related_documents" type="462c0819:PsiDirectoryNode" />
-              <item name="agent_installation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="automox-doc-theme" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="automox-doc-theme" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="automox-doc-theme" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="_default" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="automox-doc-theme" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="partials" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="automox-doc-theme" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="automox-doc-theme" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -428,13 +364,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82564000" />
+    <option name="totallyTimeSpent" value="82677000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27638888" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27638888" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -792,10 +727,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1518744935000" expanded="true" signature="51482:51525" ph="..." />
-            <marker date="1518744935000" expanded="true" signature="51482:51543" ph="..." />
-            <marker date="1518744935000" expanded="true" signature="51482:51556" ph="..." />
-            <marker date="1518744935000" expanded="true" signature="51482:51571" ph="..." />
+            <marker date="1518744999000" expanded="true" signature="55916:55935" ph="..." />
+            <marker date="1518744999000" expanded="true" signature="55916:55953" ph="..." />
+            <marker date="1518744999000" expanded="true" signature="55916:55966" ph="..." />
+            <marker date="1518744999000" expanded="true" signature="55916:55981" ph="..." />
           </folding>
         </state>
       </provider>

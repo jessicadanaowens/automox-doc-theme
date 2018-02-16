@@ -1,0 +1,159 @@
+.footer {
+    padding: 71px 0 0;
+    color: white;
+    width: 100%;
+    position: relative;
+    float:left;
+    background: #101929;
+}
+
+.columns {
+    margin-left: -0.75rem;
+    margin-right: -0.75rem;
+    margin-top: -0.75rem;
+}
+
+.columns:not(:last-child) {
+    margin-bottom: calc(1.5rem - 0.75rem);
+}
+
+.column {
+    flex-basis: 0;
+    flex-grow: 1;
+    flex-shrink: 1;
+    padding: 0.75rem;
+}
+
+.is-hidden-touch {
+    display: none;
+}
+
+.footer .footer-logo {
+    display: flex;
+    align-items: center;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 14px;
+}
+
+.footer .footer-logo img {
+    margin-right: 7px;
+}
+
+.footer .contact-list {
+    line-height: 36px;
+    font-size: 14px;
+    letter-spacing: 3.5px;
+    margin-bottom: 0;
+    list-style: none;
+    padding: 0;
+}
+
+.footer ul {
+    line-height: 21px;
+    font-size: 18px;
+    letter-spacing: 0.11px;
+    margin-bottom: 1rem;
+    list-style: none;
+    flex-direction: column;
+}
+
+.footer .footer-list li {
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 4.19px;
+    line-height: 2;
+    color: white;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer ul li:before {
+    display: none;
+}
+
+.footer .contact-list a {
+    color: #4A90E2;
+    letter-spacing: 3.5px;
+    text-decoration: none;
+}
+
+.footer .contact-list li {
+    line-height: 35px;
+}
+
+.footer .contact-list .is-white {
+    color: white;
+}
+
+.footer .footer-list li {
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 4.19px;
+    line-height: 2;
+    color: white;
+}
+
+
+.footer .secondary-list a {
+    color: #878D98;
+    font-size: 16px;
+}
+
+.footer .secondary-list {
+    padding: 0;
+}
+
+.footer .secondary-list li {
+    font-size: 16px;
+    letter-spacing: 3.46px;
+    padding-left: 30px;
+    line-height: 2.3rem;
+    color: gray;
+}
+
+.footer .footer-list li {
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 4.19px;
+    line-height: 2;
+    color: white;
+}
+
+.footer .footer-credit {
+    color: #878D98;
+    font-size: 12px;
+    letter-spacing: 2px;
+    font-family: "Avenir Next", sans-serif;
+    text-align: center;
+    padding-bottom: 16px;
+    padding-top: 20px;
+}
+
+.social-icons {
+    padding-left: 20px;
+}
+
+.social-icons a {
+    font-size: 30px;
+    color: #05709F;
+    padding-right: 10px;
+}
+
+
+
+@media screen and (min-width: 769px) {
+    .columns {
+        display: flex;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .is-hidden-touch {
+        display: flex;
+    }
+}
