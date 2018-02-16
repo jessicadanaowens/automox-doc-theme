@@ -36,29 +36,30 @@
 
                <div class="sidebar flex-container flex-column" data-fixed-sidebar="{{ .Params.fixedSidebar | default true }} ">
                     <div class="doc-nav flex-container flex-column">
-                         <p class="documentation-nav"> Documentation Navigation </p>
-                         <hr>
-                         {{ partial "nav" . }}
+                         <div class="scrollable">
+                              <p class="documentation-nav"> Documentation Navigation </p>
+                              <hr>
+                              {{ partial "nav" . }}
 
-                         {{ if .Params.relatedDocuments }}
-                         <p class="documentation-nav"> Related Documents </p>
-                         <hr>
+                              {{ if .Params.relatedDocuments }}
+                              <p class="documentation-nav"> Related Documents </p>
+                              <hr>
 
-                         <ul class="hide">
-                              {{ range .Params.relatedDocuments }}
-                              <li>
-                                   <a href="{{ .url }}">{{ .title }}</a>
-                              </li>
+                              <ul class="hide">
+                                   {{ range .Params.relatedDocuments }}
+                                   <li>
+                                        <a href="{{ .url }}">{{ .title }}</a>
+                                   </li>
+                                   {{ end }}
+                              </ul>
                               {{ end }}
-                         </ul>
-                         {{ end }}
 
-                         <p class="documentation-nav"> Search </p>
-                         <hr>
-                         <div class="hide">
-                              {{ partial "algolia_search" }}
+                              <p class="documentation-nav"> Search </p>
+                              <hr>
+                              <div class="hide">
+                                   {{ partial "algolia_search" }}
+                              </div>
                          </div>
-
                     </div>
                </div>
 

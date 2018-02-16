@@ -140,12 +140,12 @@ p.documentation-nav:before {
     display: block;
     height: 0.5em;
     pointer-events: none;
-    position: absolute;
     transform: rotate(135deg);
     transform-origin: center;
     width: 0.5em;
     margin-left: -25px;
     margin-top: 8px;
+    position: absolute;
 }
 
 p.documentation-nav.hidden-menu:before {
@@ -316,17 +316,33 @@ p.documentation-nav:first-child {
     padding-top: 80px;
 }
 
+.main-content h2 a,
+.main-content h3 a,
+.modal h4 a {
+    display: none;
+}
+
 .sidebar {
     display: none;
     padding-bottom: 150px;
 }
 
 .sidebar.fixed {
+    float: right;
+    position: relative;
+
+}
+
+.sidebar.fixed .doc-nav {
     position: fixed;
-    top: 60px;
-    right: 20px;
+    top: 0px;
+    margin-right: 20px;
+    bottom: 50px;
+}
+
+.scrollable {
     overflow-y: scroll;
-    height: 100%;
+    position: relative;
 }
 
 .doc-nav ul li {
@@ -382,8 +398,13 @@ ul#scrollspy li:last-child {
     border-radius: 10px;
     background-color: rgba(245, 166, 35, 0.1);
     border: solid 1px #f5a623;
-    padding: 10px 30px;
+    padding: 10px 20px;
     margin-bottom: 20px;
+}
+
+.note i {
+    font-size: 50px;
+    margin-right: 20px;
 }
 
 .note .contents .title {
@@ -398,6 +419,10 @@ ul#scrollspy li:last-child {
 .note.yellow .contents li{
     color: #fddfab;
     letter-spacing: -0.4px;
+}
+
+.note.yellow i {
+    color: #f5a623;
 }
 
 
@@ -421,6 +446,10 @@ p.no-padding {
 .note.blue {
     background-color: rgba(5, 112, 159, 0.1);
     border: solid 1px #05709f;
+}
+
+.note.blue i {
+    color: #05709f;
 }
 
 .note.blue .contents .title {
@@ -537,8 +566,6 @@ p:empty, ul:empty {
 strong {
     font-weight: 500;
     color: white;
-    padding-right: 5px;
-    padding-left: 5px;
 }
 .code-and-button {
     position: relative;
