@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62cafff1-7c3c-4862-afe6-44635b27db56" name="Default" comment="regenerated public folder">
+    <list default="true" id="62cafff1-7c3c-4862-afe6-44635b27db56" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/404.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/categories/index.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/categories/index.xml" afterPath="" />
@@ -41,7 +41,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/tags/index.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/tags/index.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/automox-doc-theme/layouts/partials/footer.html" afterPath="$PROJECT_DIR$/themes/automox-doc-theme/layouts/partials/footer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/automox-doc-theme/static/stylesheets/style.css" afterPath="$PROJECT_DIR$/themes/automox-doc-theme/static/stylesheets/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,8 +77,8 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/themes/automox-doc-theme/static/stylesheets/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="175">
-                  <caret line="64" column="21" lean-forward="false" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+                <state relative-caret-position="385">
+                  <caret line="78" column="1" lean-forward="false" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
                   <folding />
                 </state>
               </provider>
@@ -430,7 +429,7 @@
       <updated>1518216086099</updated>
       <workItem from="1518216087338" duration="65939000" />
       <workItem from="1518709468814" duration="16573000" />
-      <workItem from="1518745357504" duration="222000" />
+      <workItem from="1518745357504" duration="350000" />
     </task>
     <task id="LOCAL-00001" summary="regenerated public folder">
       <created>1518219389518</created>
@@ -439,11 +438,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518219389518</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="more footer updates">
+      <created>1518745615032</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1518745615032</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83104000" />
+    <option name="totallyTimeSpent" value="83232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -495,7 +501,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="regenerated public folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="regenerated public folder" />
+    <MESSAGE value="more footer updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="more footer updates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -850,8 +857,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/automox-doc-theme/static/stylesheets/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="64" column="21" lean-forward="false" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+        <state relative-caret-position="385">
+          <caret line="78" column="1" lean-forward="false" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
           <folding />
         </state>
       </provider>
