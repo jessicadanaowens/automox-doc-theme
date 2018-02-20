@@ -5,6 +5,7 @@ date: 2018-02-08T18:24:50-07:00
 iconClass: 'icon-magnify2'
 draft: false
 fixedSidebar: false
+weight: 7
 menu: 
     mainmenu: 
         name: Software

@@ -37,7 +37,7 @@
                <hr>
 
                <div class="doc-squares flex-container space-between">
-                    {{  range where .Data.Pages.ByTitle "Type" "docs" }}
+                    {{  range where .Data.Pages.ByWeight "Type" "docs" }}
                          <a href="{{.URL}}" class="doc-link">
                               <div class="doc-square flex-align-center flex-container flex-column">
                                    <div class="circle flex-container flex-align-center justify-content-center">

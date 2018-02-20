@@ -5,6 +5,7 @@ date: 2018-02-08T16:04:02-07:00
 iconClass: 'icon-devices'
 draft: false
 fixedSidebar: false
+weight: 3
 menu: 
     mainmenu: 
         name: Devices

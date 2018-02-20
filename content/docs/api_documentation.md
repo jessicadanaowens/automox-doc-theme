@@ -5,6 +5,8 @@ date: 2018-02-08T16:04:12-07:00
 iconClass: 'icon-api'
 draft: false
 fixedSidebar: false
+weight: 4
+
 menu: 
     mainmenu: 
         name: API Documentation

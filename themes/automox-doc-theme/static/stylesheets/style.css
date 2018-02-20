@@ -691,7 +691,7 @@ tbody tr:nth-child(even) {
     position: fixed;
     z-index: 100;
     left: 50%;
-    top: 50%;
+    top: calc(50% + 70px);
     transform: translate(-50%, -50%);
     box-shadow: 0 0 60px 10px rgba(0, 0, 0, 0.9);
     transition: all .25s ease-in-out;
