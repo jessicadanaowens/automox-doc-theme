@@ -1,0 +1,105 @@
+.faq-main {
+   padding-bottom: 100px;
+}
+
+.faq-main i {
+   color: white;
+   font-size: 40px;
+   margin-right: 20px;
+}
+
+.faq-main .icon-container {
+   width: 80px;
+   margin-top: 15px;
+   position: absolute;
+}
+
+.faq-main hr {
+   margin-bottom: 30px;
+}
+
+.faq-section {
+   margin-left: 80px;
+}
+
+.faq-section h2 {
+   font-size: 18px;
+   color: #00b1f8;
+   line-height: normal;
+   letter-spacing: 0.3px;
+   font-weight: 600;
+   padding-top: 10px;
+}
+
+.faq-main p {
+   padding-bottom: 20px;
+}
+
+.faq-main a {
+   color: #00b1f8;
+   text-decoration: none;
+}
+
+.faq-main p,
+.faq-main ul li,
+a {
+   font-size: 14px;
+   font-weight: normal;
+   line-height: normal;
+   letter-spacing: 0.3px;
+   text-align: left;
+   color: #878d98;
+}
+
+.faq-main ul {
+   list-style-type: disc;
+}
+
+
+.faq-column {
+   width: 100%;
+}
+
+.faq-main .faq-columns {
+   -webkit-flex-direction: column;
+   -moz-flex-direction: column;
+   -ms-flex-direction: column;
+   flex-direction: column;
+}
+
+.list-of-links a{
+   width: 100%;
+}
+
+ul li:last-child {
+   padding-bottom: 20px;
+}
+
+.list-of-links a:last-child {
+   padding-bottom: 20px;
+}
+
+.unlinked-list p {
+   padding-bottom: 0;
+}
+
+.unlinked-list p:last-child {
+   padding-bottom: 20px;
+}
+
+@media screen and (min-width: 768px) {
+   .faq-main .faq-columns {
+      -webkit-flex-direction: row;
+      -moz-flex-direction: row;
+      -ms-flex-direction: row;
+      flex-direction: row;
+      -webkit-justify-content: space-between;
+      -moz-justify-content: space-between;
+      -ms-justify-content: space-between;
+      justify-content: space-between;
+   }
+
+   .faq-column {
+      width: 45%;
+   }
+}

@@ -2,17 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62cafff1-7c3c-4862-afe6-44635b27db56" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/icomoon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/icomoon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/icomoon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/hero-min.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/install-step3-min.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/install-step4-min.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/categories/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/categories/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/docs/agent_installation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/docs/api_documentation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/docs/dashboard/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/docs/devices/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/docs/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/docs/reports/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/docs/settings/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/docs/software/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/docs/system_management/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/faq/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/icomoon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/full-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/algolia_search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/related_documents/agent_installation/advanced_installation_options/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/related_documents/agent_installation/deploying_the_agent_to_devices_in_bulk/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/related_documents/agent_installation/installation_best_practices/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/related_documents/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/related_documents/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sitemap.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/algolia_search.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/faq.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/footer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/header.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/icomoon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/tags/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/tags/index.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/docs/agent_installation.md" afterPath="$PROJECT_DIR$/content/docs/agent_installation.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/docs/api_documentation.md" afterPath="$PROJECT_DIR$/content/docs/api_documentation.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/docs/dashboard.md" afterPath="$PROJECT_DIR$/content/docs/dashboard.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/docs/devices.md" afterPath="$PROJECT_DIR$/content/docs/devices.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/docs/reports.md" afterPath="$PROJECT_DIR$/content/docs/reports.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/docs/settings.md" afterPath="$PROJECT_DIR$/content/docs/settings.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/docs/software.md" afterPath="$PROJECT_DIR$/content/docs/software.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/docs/system_management.md" afterPath="$PROJECT_DIR$/content/docs/system_management.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/automox-doc-theme/layouts/_default/list.html" afterPath="$PROJECT_DIR$/themes/automox-doc-theme/layouts/_default/list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/automox-doc-theme/static/stylesheets/style.css" afterPath="$PROJECT_DIR$/themes/automox-doc-theme/static/stylesheets/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -82,7 +112,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="180">
-                <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+                <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -285,59 +315,6 @@
               <item name="test2" type="b2602c69:ProjectViewProjectNode" />
               <item name="test2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="shortcodes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="automox-doc-theme" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="automox-doc-theme" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="automox-doc-theme" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="_default" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -400,7 +377,7 @@
       <workItem from="1519163388292" duration="1594000" />
       <workItem from="1519165220259" duration="1694000" />
       <workItem from="1519167054311" duration="1688000" />
-      <workItem from="1519168863792" duration="980000" />
+      <workItem from="1519168863792" duration="1058000" />
     </task>
     <task id="LOCAL-00001" summary="regenerated public folder">
       <created>1518219389518</created>
@@ -458,11 +435,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519169191316</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="organize menu by weight">
+      <created>1519169863778</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1519169863778</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98529000" />
+    <option name="totallyTimeSpent" value="98607000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="260" width="1440" height="873" extended-state="0" />
@@ -521,7 +505,8 @@
     <MESSAGE value="tweaks" />
     <MESSAGE value="faq" />
     <MESSAGE value="show code button on hover" />
-    <option name="LAST_COMMIT_MESSAGE" value="show code button on hover" />
+    <MESSAGE value="organize menu by weight" />
+    <option name="LAST_COMMIT_MESSAGE" value="organize menu by weight" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -887,7 +872,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="180">
-            <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
