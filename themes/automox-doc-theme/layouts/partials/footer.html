@@ -140,6 +140,14 @@
     });
 
     {{ "/* Copy markdown to clipboard */" | safeJS }}
+    $('.code-and-button').on('mouseenter', function (e) {
+        $('.code-and-button').removeClass('display-button');
+        $(this).addClass('display-button');
+    });
+
+    $('.code-and-button').on('mouseleave', function (e) {
+        $(this).removeClass('display-button');
+    });
 
     $('button.copy').on('click', function (event) {
         // create hidden text element, if it doesn't already exist

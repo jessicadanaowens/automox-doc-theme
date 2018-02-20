@@ -2,61 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62cafff1-7c3c-4862-afe6-44635b27db56" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/faq.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/faqcolumn.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/faqcolumns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/faqsection.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/icon.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/listoflinks.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/unlinkedlist.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/automox-doc-theme/layouts/faq/single.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/automox-doc-theme/static/stylesheets/faq.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/categories/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/categories/index.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/docs/agent_installation/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/docs/api_documentation/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/docs/dashboard/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/docs/devices/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/docs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/docs/index.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/docs/reports/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/docs/settings/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/docs/software/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/docs/system_management/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fonts/icomoon.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fonts/icomoon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fonts/icomoon.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fonts/icomoon.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/full-logo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/hero-min.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/install-step3-min.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/install-step4-min.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/index.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascripts/algolia_search.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/related_documents/agent_installation/advanced_installation_options/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/related_documents/agent_installation/deploying_the_agent_to_devices_in_bulk/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/related_documents/agent_installation/installation_best_practices/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/related_documents/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/related_documents/index.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/sitemap.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/stylesheets/algolia_search.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/stylesheets/footer.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/stylesheets/header.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/stylesheets/icomoon.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/stylesheets/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/stylesheets/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/tags/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/tags/index.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fonts/icomoon.eot" afterPath="$PROJECT_DIR$/static/fonts/icomoon.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fonts/icomoon.ttf" afterPath="$PROJECT_DIR$/static/fonts/icomoon.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fonts/icomoon.woff" afterPath="$PROJECT_DIR$/static/fonts/icomoon.woff" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/shortcodes/prerequisites.html" afterPath="$PROJECT_DIR$/layouts/shortcodes/prerequisites.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fonts/icomoon.svg" afterPath="$PROJECT_DIR$/static/fonts/icomoon.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/stylesheets/icomoon.css" afterPath="$PROJECT_DIR$/static/stylesheets/icomoon.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/automox-doc-theme/static/stylesheets/style.css" afterPath="$PROJECT_DIR$/themes/automox-doc-theme/static/stylesheets/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/shortcodes/code.html" afterPath="$PROJECT_DIR$/layouts/shortcodes/code.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/automox-doc-theme/layouts/partials/footer.html" afterPath="$PROJECT_DIR$/themes/automox-doc-theme/layouts/partials/footer.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -81,8 +29,8 @@
         <entry file="file://$PROJECT_DIR$/content/faq.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="197">
-                <caret line="66" column="19" lean-forward="true" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+              <first_editor relative-caret-position="990">
+                <caret line="66" column="19" lean-forward="false" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -93,7 +41,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/automox-doc-theme/static/stylesheets/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
+            <state relative-caret-position="9660">
               <caret line="644" column="27" lean-forward="false" selection-start-line="644" selection-start-column="27" selection-end-line="644" selection-end-column="27" />
               <folding />
             </state>
@@ -103,7 +51,7 @@
       <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/automox-doc-theme/layouts/partials/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
+            <state relative-caret-position="45">
               <caret line="141" column="53" lean-forward="false" selection-start-line="141" selection-start-column="53" selection-end-line="141" selection-end-column="53" />
               <folding />
             </state>
@@ -133,8 +81,8 @@
       <file leaf-file-name="code.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/layouts/shortcodes/code.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="0">
+              <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -239,12 +187,12 @@
         <option value="$PROJECT_DIR$/layouts/shortcodes/prerequisites.html" />
         <option value="$PROJECT_DIR$/themes/automox-doc-theme/layouts/faq/single.html" />
         <option value="$PROJECT_DIR$/static/stylesheets/icomoon.css" />
-        <option value="$PROJECT_DIR$/layouts/shortcodes/code.html" />
         <option value="$PROJECT_DIR$/layouts/shortcodes/icon.html" />
         <option value="$PROJECT_DIR$/layouts/shortcodes/faqsection.html" />
         <option value="$PROJECT_DIR$/themes/automox-doc-theme/static/stylesheets/faq.css" />
         <option value="$PROJECT_DIR$/content/faq.md" />
         <option value="$PROJECT_DIR$/themes/automox-doc-theme/static/stylesheets/style.css" />
+        <option value="$PROJECT_DIR$/layouts/shortcodes/code.html" />
         <option value="$PROJECT_DIR$/themes/automox-doc-theme/layouts/partials/footer.html" />
       </list>
     </option>
@@ -255,7 +203,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="873" />
@@ -276,6 +224,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -325,8 +275,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -384,7 +332,8 @@
       <workItem from="1519161576500" duration="1660000" />
       <workItem from="1519163388292" duration="1594000" />
       <workItem from="1519165220259" duration="1694000" />
-      <workItem from="1519167054311" duration="1489000" />
+      <workItem from="1519167054311" duration="1688000" />
+      <workItem from="1519168863792" duration="318000" />
     </task>
     <task id="LOCAL-00001" summary="regenerated public folder">
       <created>1518219389518</created>
@@ -428,11 +377,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518806811725</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="faq">
+      <created>1519168620053</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1519168620053</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97350000" />
+    <option name="totallyTimeSpent" value="97867000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -489,7 +445,8 @@
     <MESSAGE value="center background" />
     <MESSAGE value="css tweaks" />
     <MESSAGE value="tweaks" />
-    <option name="LAST_COMMIT_MESSAGE" value="tweaks" />
+    <MESSAGE value="faq" />
+    <option name="LAST_COMMIT_MESSAGE" value="faq" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -778,7 +735,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1107">
           <caret line="461" column="1" lean-forward="false" selection-start-line="461" selection-start-column="1" selection-end-line="461" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -816,19 +772,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/shortcodes/code.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/faq.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="197">
-            <caret line="66" column="19" lean-forward="true" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+          <first_editor relative-caret-position="990">
+            <caret line="66" column="19" lean-forward="false" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
             <folding />
           </first_editor>
           <second_editor />
@@ -837,15 +785,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/automox-doc-theme/static/stylesheets/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
+        <state relative-caret-position="9660">
           <caret line="644" column="27" lean-forward="false" selection-start-line="644" selection-start-column="27" selection-end-line="644" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/shortcodes/code.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/automox-doc-theme/layouts/partials/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
+        <state relative-caret-position="45">
           <caret line="141" column="53" lean-forward="false" selection-start-line="141" selection-start-column="53" selection-end-line="141" selection-end-column="53" />
           <folding />
         </state>
