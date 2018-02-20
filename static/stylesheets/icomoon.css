@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'icomoon';
-    src:  url('/fonts/icomoon.eot?4400uq');
-    src:  url('/fonts/icomoon.eot?4400uq#iefix') format('embedded-opentype'),
-    url('/fonts/icomoon.ttf?4400uq') format('truetype'),
-    url('/fonts/icomoon.woff?4400uq') format('woff'),
-    url('/fonts/icomoon.svg?4400uq#icomoon') format('svg');
+    src:  url('/fonts/icomoon.eot?q4dze9');
+    src:  url('/fonts/icomoon.eot?q4dze9#iefix') format('embedded-opentype'),
+    url('/fonts/icomoon.ttf?q4dze9') format('truetype'),
+    url('/fonts/icomoon.woff?q4dze9') format('woff'),
+    url('/fonts/icomoon.svg?q4dze9#icomoon') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -24,163 +24,439 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-twitter:before {
+    content: "\e904";
+    color: #05709f;
+}
+.icon-facebook:before {
+    content: "\e905";
+    color: #05709f;
+}
+.icon-linkedin:before {
+    content: "\e900";
+    color: #05709f;
+}
 .icon-close:before {
     content: "\e92f";
+    color: #fff;
 }
 .icon-dashboard .path1:before {
     content: "\e90f";
+    color: rgb(5, 112, 159);
 }
 .icon-dashboard .path2:before {
     content: "\e910";
     margin-left: -1.61328125em;
+    color: rgb(5, 112, 159);
 }
 .icon-dashboard .path3:before {
     content: "\e911";
     margin-left: -1.61328125em;
+    color: rgb(5, 112, 159);
 }
 .icon-dashboard .path4:before {
     content: "\e912";
     margin-left: -1.61328125em;
+    color: rgb(5, 112, 159);
 }
 .icon-dashboard .path5:before {
     content: "\e913";
     margin-left: -1.61328125em;
+    color: rgb(5, 112, 159);
 }
 .icon-dashboard .path6:before {
     content: "\e914";
     margin-left: -1.61328125em;
+    color: rgb(5, 112, 159);
 }
 .icon-dashboard .path7:before {
     content: "\e915";
     margin-left: -1.61328125em;
+    color: rgb(5, 112, 159);
 }
 .icon-dashboard .path8:before {
     content: "\e916";
     margin-left: -1.61328125em;
+    color: rgb(5, 112, 159);
 }
 .icon-dashboard .path9:before {
     content: "\e917";
     margin-left: -1.61328125em;
+    color: rgb(5, 112, 159);
 }
 .icon-dashboard .path10:before {
     content: "\e918";
     margin-left: -1.61328125em;
+    color: rgb(5, 112, 159);
 }
 .icon-dashboard .path11:before {
     content: "\e919";
     margin-left: -1.61328125em;
+    color: rgb(5, 112, 159);
 }
 .icon-dashboard .path12:before {
     content: "\e91a";
     margin-left: -1.61328125em;
+    color: rgb(5, 112, 159);
 }
 .icon-dashboard .path13:before {
     content: "\e91b";
     margin-left: -1.61328125em;
+    color: rgb(5, 112, 159);
 }
 .icon-dashboard .path14:before {
     content: "\e91c";
     margin-left: -1.61328125em;
+    color: rgb(5, 112, 159);
 }
 .icon-dashboard .path15:before {
     content: "\e91d";
     margin-left: -1.61328125em;
+    color: rgb(5, 112, 159);
 }
 .icon-dashboard .path16:before {
     content: "\e91e";
     margin-left: -1.61328125em;
+    color: rgb(74, 144, 226);
 }
 .icon-dashboard .path17:before {
     content: "\e91f";
     margin-left: -1.61328125em;
+    color: rgb(5, 112, 159);
 }
 .icon-faq:before {
     content: "\e92d";
+    color: #05709f;
 }
 .icon-system-management:before {
     content: "\e92e";
+    color: #05709f;
 }
 .icon-announcements2:before {
     content: "\e920";
+    color: #05709f;
 }
 .icon-api:before {
     content: "\e921";
+    color: #05709f;
 }
 .icon-billing2:before {
     content: "\e922";
+    color: #05709f;
 }
 .icon-devices:before {
     content: "\e923";
+    color: #05709f;
 }
 .icon-installation:before {
     content: "\e924";
+    color: #00b1f8;
 }
 .icon-lightbulb2:before {
     content: "\e925";
+    color: #05709f;
 }
 .icon-magnify2:before {
     content: "\e926";
+    color: #05709f;
 }
 .icon-patching-devices2:before {
     content: "\e927";
+    color: #05709f;
 }
 .icon-policies2:before {
     content: "\e928";
+    color: #05709f;
 }
 .icon-reports:before {
     content: "\e929";
+    color: #05709f;
 }
 .icon-runner2:before {
     content: "\e92a";
+    color: #05709f;
 }
 .icon-settings:before {
     content: "\e92b";
+    color: #05709f;
 }
 .icon-support2:before {
     content: "\e92c";
+    color: #05709f;
 }
 .icon-macOS:before {
     content: "\e906";
+    color: #05709f;
 }
 .icon-windows:before {
     content: "\e901";
+    color: #05709f;
 }
 .icon-announcements:before {
     content: "\e907";
+    color: #05709f;
 }
 .icon-billing:before {
     content: "\e908";
+    color: #05709f;
 }
 .icon-lightbulb:before {
     content: "\e909";
+    color: #05709f;
 }
 .icon-magnify:before {
     content: "\e90a";
+    color: #05709f;
 }
 .icon-patching-devices:before {
     content: "\e90b";
+    color: #05709f;
 }
 .icon-policies:before {
     content: "\e90c";
+    color: #05709f;
 }
 .icon-runner:before {
     content: "\e90d";
+    color: #05709f;
 }
 .icon-support:before {
     content: "\e90e";
+    color: #05709f;
 }
 .icon-checklist:before {
     content: "\e902";
+    color: #f5a623;
 }
 .icon-note:before {
     content: "\e903";
+    color: #05709f;
 }
-.icon-twitter:before {
-    content: "\e904";
+.icon-automox .path1:before {
+    content: "\e958";
+    color: rgb(255, 255, 255);
 }
-.icon-facebook:before {
-    content: "\e905";
+.icon-automox .path2:before {
+    content: "\e959";
+    margin-left: -1.1455078125em;
+    color: rgb(5, 112, 159);
 }
-.icon-linkedin:before {
-    content: "\e900";
+.icon-automox .path3:before {
+    content: "\e95a";
+    margin-left: -1.1455078125em;
+    color: rgb(5, 112, 159);
+}
+.icon-automox .path4:before {
+    content: "\e95b";
+    margin-left: -1.1455078125em;
+    color: rgb(5, 112, 159);
+}
+.icon-automox .path5:before {
+    content: "\e95c";
+    margin-left: -1.1455078125em;
+    color: rgb(5, 112, 159);
+}
+.icon-automox .path6:before {
+    content: "\e95d";
+    margin-left: -1.1455078125em;
+    color: rgb(5, 112, 159);
+}
+.icon-automox .path7:before {
+    content: "\e95e";
+    margin-left: -1.1455078125em;
+    color: rgb(5, 112, 159);
+}
+.icon-automox .path8:before {
+    content: "\e95f";
+    margin-left: -1.1455078125em;
+    color: rgb(5, 112, 159);
+}
+.icon-automox .path9:before {
+    content: "\e960";
+    margin-left: -1.1455078125em;
+    color: rgb(5, 112, 159);
+}
+.icon-automox .path10:before {
+    content: "\e961";
+    margin-left: -1.1455078125em;
+    color: rgb(5, 112, 159);
+}
+.icon-automox .path11:before {
+    content: "\e962";
+    margin-left: -1.1455078125em;
+    color: rgb(5, 112, 159);
+}
+.icon-automox .path12:before {
+    content: "\e963";
+    margin-left: -1.1455078125em;
+    color: rgb(5, 112, 159);
+}
+.icon-automox .path13:before {
+    content: "\e964";
+    margin-left: -1.1455078125em;
+    color: rgb(5, 112, 159);
+}
+.icon-automox .path14:before {
+    content: "\e965";
+    margin-left: -1.1455078125em;
+    color: rgb(5, 112, 159);
+}
+.icon-rd-party-software:before {
+    content: "\e930";
+    color: #05709f;
+}
+.icon-access-key:before {
+    content: "\e931";
+    color: #05709f;
+}
+.icon-agent:before {
+    content: "\e932";
+    color: #05709f;
+}
+.icon-API:before {
+    content: "\e933";
+    color: #05709f;
+}
+.icon-Auto-update:before {
+    content: "\e934";
+    color: #05709f;
+}
+.icon-Automox-Icon:before {
+    content: "\e935";
+    color: #fff;
+}
+.icon-cancellation:before {
+    content: "\e936";
+    color: #05709f;
+}
+.icon-contact-support:before {
+    content: "\e937";
+    color: #05709f;
+}
+.icon-Control:before {
+    content: "\e938";
+    color: #05709f;
+}
+.icon-curtain:before {
+    content: "\e939";
+    color: #05709f;
+}
+.icon-custom-software:before {
+    content: "\e93a";
+    color: #05709f;
+}
+.icon-customize:before {
+    content: "\e93b";
+    color: #05709f;
+}
+.icon-deleted:before {
+    content: "\e93c";
+    color: #05709f;
+}
+.icon-distrubite:before {
+    content: "\e93d";
+    color: #05709f;
+}
+.icon-download:before {
+    content: "\e93e";
+    color: #05709f;
+}
+.icon-groups:before {
+    content: "\e93f";
+    color: #05709f;
+}
+.icon-key:before {
+    content: "\e940";
+    color: #05709f;
+}
+.icon-locations:before {
+    content: "\e941";
+    color: #05709f;
+}
+.icon-monthly:before {
+    content: "\e942";
+    color: #05709f;
+}
+.icon-msp:before {
+    content: "\e943";
+    color: #05709f;
+}
+.icon-New-Organizations:before {
+    content: "\e944";
+    color: #05709f;
+}
+.icon-on-perm:before {
+    content: "\e945";
+    color: #05709f;
+}
+.icon-organization:before {
+    content: "\e946";
+    color: #05709f;
+}
+.icon-OSs:before {
+    content: "\e947";
+    color: #05709f;
+}
+.icon-overages:before {
+    content: "\e948";
+    color: #05709f;
+}
+.icon-patches:before {
+    content: "\e949";
+    color: #05709f;
+}
+.icon-payment-method:before {
+    content: "\e94a";
+    color: #05709f;
+}
+.icon-Policies:before {
+    content: "\e94b";
+    color: #05709f;
+}
+.icon-remediation:before {
+    content: "\e94c";
+    color: #05709f;
+}
+.icon-reports2:before {
+    content: "\e94d";
+    color: #05709f;
+}
+.icon-requirements:before {
+    content: "\e94e";
+    color: #05709f;
+}
+.icon-safe:before {
+    content: "\e94f";
+    color: #05709f;
+}
+.icon-servers:before {
+    content: "\e950";
+    color: #05709f;
+}
+.icon-setup:before {
+    content: "\e951";
+    color: #05709f;
+}
+.icon-system:before {
+    content: "\e952";
+    color: #05709f;
+}
+.icon-tell-employees:before {
+    content: "\e953";
+}
+.icon-uninstall:before {
+    content: "\e954";
+    color: #05709f;
+}
+.icon-upgrade:before {
+    content: "\e955";
+    color: #05709f;
+}
+.icon-Windows:before {
+    content: "\e956";
+    color: #05709f;
+}
+.icon-workflow:before {
+    content: "\e957";
+    color: #05709f;
 }

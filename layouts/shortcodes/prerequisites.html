@@ -1,7 +1,3 @@
-<div class='note prerequisites {{ .Get "color" }} flex-container flex-align-center'>
-    <i class="icon-checklist"></i>
-    <div class="contents">
-        <p class="title">{{ .Get "title" }}</p>
-        {{ printf "%s" .Inner | markdownify }}
-    </div>
+<div class="bullets">
+    {{ printf "%s" .Inner | markdownify }}
 </div>

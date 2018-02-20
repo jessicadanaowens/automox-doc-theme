@@ -1,0 +1,9 @@
+<div class="flex-container space-between">
+    <div class="icon-container flex-container justify-content-flex-end">
+        <i class='{{ .Get "icon" }}'></i>
+    </div>
+    <div class='faq-section'>
+        <h2 class="title">{{ .Get "title" }}</h2>
+        <p>{{ printf "%s" .Inner | markdownify }}</p>
+    </div>
+</div>
