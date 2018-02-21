@@ -2,47 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62cafff1-7c3c-4862-afe6-44635b27db56" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/icomoon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/icomoon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/icomoon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/hero-min.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/install-step3-min.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/install-step4-min.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/categories/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/categories/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/docs/agent_installation/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/docs/api_documentation/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/docs/dashboard/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/docs/devices/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/docs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/docs/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/docs/reports/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/docs/settings/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/docs/software/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/docs/system_management/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/faq/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/icomoon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/full-logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/algolia_search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/related_documents/agent_installation/advanced_installation_options/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/related_documents/agent_installation/deploying_the_agent_to_devices_in_bulk/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/related_documents/agent_installation/installation_best_practices/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/related_documents/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/related_documents/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/sitemap.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/algolia_search.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/faq.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/footer.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/header.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/icomoon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/tags/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/tags/index.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/content/docs/agent_installation.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="90">
-                <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+              <first_editor relative-caret-position="15">
+                <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="6" selection-end-column="9" />
                 <folding>
                   <marker date="1519169824000" expanded="true" signature="4057:4152" ph="..." />
                 </folding>
@@ -107,7 +68,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="system_management.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="system_management.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/docs/system_management.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -116,6 +77,29 @@
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="593">
+                <caret line="112" column="26" lean-forward="true" selection-start-line="112" selection-start-column="26" selection-end-line="112" selection-end-column="26" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.toml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -155,26 +139,6 @@
                 <folding />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/automox-doc-theme/layouts/_default/list.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="39" column="56" lean-forward="false" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.toml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.toml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -242,7 +206,6 @@
         <option value="$PROJECT_DIR$/layouts/shortcodes/img_modal.html" />
         <option value="$PROJECT_DIR$/themes/automox-doc-theme/layouts/partials/modal.html" />
         <option value="$PROJECT_DIR$/themes/automox-doc-theme/README.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/themes/automox-doc-theme/layouts/partials/algolia_search.html" />
         <option value="$PROJECT_DIR$/themes/automox-doc-theme/layouts/partials/nav.html" />
         <option value="$PROJECT_DIR$/themes/automox-doc-theme/static/javascripts/sitewide.js" />
@@ -267,7 +230,6 @@
         <option value="$PROJECT_DIR$/themes/automox-doc-theme/layouts/partials/footer.html" />
         <option value="$PROJECT_DIR$/themes/automox-doc-theme/static/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/themes/automox-doc-theme/layouts/_default/list.html" />
-        <option value="$PROJECT_DIR$/content/docs/agent_installation.md" />
         <option value="$PROJECT_DIR$/content/docs/api_documentation.md" />
         <option value="$PROJECT_DIR$/content/docs/dashboard.md" />
         <option value="$PROJECT_DIR$/content/docs/devices.md" />
@@ -275,6 +237,8 @@
         <option value="$PROJECT_DIR$/content/docs/settings.md" />
         <option value="$PROJECT_DIR$/content/docs/software.md" />
         <option value="$PROJECT_DIR$/content/docs/system_management.md" />
+        <option value="$PROJECT_DIR$/content/docs/agent_installation.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -285,10 +249,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-10" />
-    <option name="y" value="260" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="873" />
+    <option name="height" value="852" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -306,8 +269,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -315,10 +276,73 @@
               <item name="test2" type="b2602c69:ProjectViewProjectNode" />
               <item name="test2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test2" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test2" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test2" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="related_documents" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test2" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="related_documents" type="462c0819:PsiDirectoryNode" />
+              <item name="agent_installation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test2" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test2" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="shortcodes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test2" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test2" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="automox-doc-theme" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test2" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="automox-doc-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test2" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="automox-doc-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="_default" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -328,19 +352,19 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/static/fonts" />
-      <recent name="$PROJECT_DIR$/static" />
-      <recent name="$PROJECT_DIR$/content" />
-      <recent name="$PROJECT_DIR$/content/docs" />
-      <recent name="$PROJECT_DIR$/content/system_management" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/layouts/shortcodes" />
       <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/themes/automox-doc-theme/layouts/partials" />
       <recent name="$PROJECT_DIR$/static/img" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content" />
+      <recent name="$PROJECT_DIR$/static/fonts" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/content/docs" />
+      <recent name="$PROJECT_DIR$/content/system_management" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -377,7 +401,9 @@
       <workItem from="1519163388292" duration="1594000" />
       <workItem from="1519165220259" duration="1694000" />
       <workItem from="1519167054311" duration="1688000" />
-      <workItem from="1519168863792" duration="1058000" />
+      <workItem from="1519168863792" duration="1814000" />
+      <workItem from="1519170727429" duration="1778000" />
+      <workItem from="1519172536882" duration="172000" />
     </task>
     <task id="LOCAL-00001" summary="regenerated public folder">
       <created>1518219389518</created>
@@ -442,20 +468,27 @@
       <option name="project" value="LOCAL" />
       <updated>1519169863778</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="created public folder">
+      <created>1519169942483</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1519169942483</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98607000" />
+    <option name="totallyTimeSpent" value="101313000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-10" y="260" width="1440" height="873" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="852" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17777778" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.7216867" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.72064275" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -506,7 +539,8 @@
     <MESSAGE value="faq" />
     <MESSAGE value="show code button on hover" />
     <MESSAGE value="organize menu by weight" />
-    <option name="LAST_COMMIT_MESSAGE" value="organize menu by weight" />
+    <MESSAGE value="created public folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="created public folder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -538,16 +572,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
             <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="314">
-            <caret line="30" column="66" lean-forward="false" selection-start-line="30" selection-start-column="66" selection-end-line="30" selection-end-column="66" />
           </first_editor>
           <second_editor />
         </state>
@@ -689,7 +713,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -718,7 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -726,7 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="70" lean-forward="false" selection-start-line="1" selection-start-column="70" selection-end-line="1" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -734,7 +755,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -743,7 +763,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="990">
             <caret line="66" column="19" lean-forward="false" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -753,7 +772,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -761,7 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="141" column="53" lean-forward="false" selection-start-line="141" selection-start-column="53" selection-end-line="141" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -769,36 +786,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
           <caret line="693" column="21" lean-forward="false" selection-start-line="693" selection-start-column="21" selection-end-line="693" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/automox-doc-theme/layouts/_default/list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
+        <state relative-caret-position="585">
           <caret line="39" column="56" lean-forward="false" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/docs/agent_installation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-            <folding>
-              <marker date="1519169824000" expanded="true" signature="4057:4152" ph="..." />
-            </folding>
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -876,6 +871,38 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/docs/agent_installation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="6" selection-end-column="9" />
+            <folding>
+              <marker date="1519169824000" expanded="true" signature="4057:4152" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="593">
+            <caret line="112" column="26" lean-forward="true" selection-start-line="112" selection-start-column="26" selection-end-line="112" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
