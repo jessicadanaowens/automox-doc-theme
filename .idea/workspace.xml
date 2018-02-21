@@ -43,7 +43,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/tags/index.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/tags/index.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/stylesheets/icomoon.css" afterPath="$PROJECT_DIR$/static/stylesheets/icomoon.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/automox-doc-theme/static/stylesheets/style.css" afterPath="$PROJECT_DIR$/themes/automox-doc-theme/static/stylesheets/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,129 +53,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="agent_installation.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/docs/agent_installation.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="15">
-                <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="6" selection-end-column="9" />
-                <folding>
-                  <marker date="1519169824000" expanded="true" signature="4057:4152" ph="..." />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dashboard.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/docs/dashboard.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="devices.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/docs/devices.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="system_management.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/docs/system_management.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="593">
-                <caret line="112" column="26" lean-forward="false" selection-start-line="112" selection-start-column="26" selection-end-line="112" selection-end-column="26" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.toml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.toml">
+    <leaf>
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/automox-doc-theme/layouts/partials/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="-174">
+              <caret line="141" column="53" lean-forward="false" selection-start-line="141" selection-start-column="53" selection-end-line="141" selection-end-column="53" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="icomoon.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/static/stylesheets/icomoon.css">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/automox-doc-theme/static/stylesheets/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="64" column="1" lean-forward="false" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+            <state relative-caret-position="448">
+              <caret line="637" column="1" lean-forward="false" selection-start-line="637" selection-start-column="1" selection-end-line="637" selection-end-column="1" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reports.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/docs/reports.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="software.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/docs/software.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/docs/settings.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-                <folding />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -264,7 +158,6 @@
         <option value="$PROJECT_DIR$/content/faq.md" />
         <option value="$PROJECT_DIR$/layouts/shortcodes/code.html" />
         <option value="$PROJECT_DIR$/themes/automox-doc-theme/layouts/partials/footer.html" />
-        <option value="$PROJECT_DIR$/themes/automox-doc-theme/static/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/themes/automox-doc-theme/layouts/_default/list.html" />
         <option value="$PROJECT_DIR$/content/docs/api_documentation.md" />
         <option value="$PROJECT_DIR$/content/docs/dashboard.md" />
@@ -276,6 +169,7 @@
         <option value="$PROJECT_DIR$/content/docs/agent_installation.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/static/stylesheets/icomoon.css" />
+        <option value="$PROJECT_DIR$/themes/automox-doc-theme/static/stylesheets/style.css" />
       </list>
     </option>
   </component>
@@ -306,6 +200,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -313,18 +208,28 @@
               <item name="test2" type="b2602c69:ProjectViewProjectNode" />
               <item name="test2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test2" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test2" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="automox-doc-theme" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="icomoon&#9;FILE&#9;file:///Users/JessicaOwens/workspace/test2/static/stylesheets/icomoon.css&#10;footer&#9;FILE&#9;file:///Users/JessicaOwens/workspace/test2/themes/automox-doc-theme/layouts/partials/footer.html&#10;style&#9;FILE&#9;file:///Users/JessicaOwens/workspace/test2/themes/automox-doc-theme/static/stylesheets/style.css&#10;faq.cs&#9;FILE&#9;file:///Users/JessicaOwens/workspace/test2/themes/automox-doc-theme/static/stylesheets/faq.css&#10;footer.&#9;FILE&#9;file:///Users/JessicaOwens/workspace/test2/themes/automox-doc-theme/layouts/partials/footer.html&#10;sytles&#9;FILE&#9;file:///Users/JessicaOwens/workspace/test2/themes/automox-doc-theme/static/stylesheets/style.css&#10;sty&#9;FILE&#9;file:///Users/JessicaOwens/workspace/test2/themes/automox-doc-theme/static/stylesheets/style.css&#10;styl&#9;FILE&#9;file:///Users/JessicaOwens/workspace/test2/themes/automox-doc-theme/static/stylesheets/style.css&#10;styles&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="style&#9;FILE&#9;file:///Users/JessicaOwens/workspace/test2/themes/automox-doc-theme/static/stylesheets/style.css&#10;footer.&#9;FILE&#9;file:///Users/JessicaOwens/workspace/test2/themes/automox-doc-theme/layouts/partials/footer.html&#10;home/index&#9;null&#9;null&#10;icomoon&#9;FILE&#9;file:///Users/JessicaOwens/workspace/test2/static/stylesheets/icomoon.css&#10;footer&#9;FILE&#9;file:///Users/JessicaOwens/workspace/test2/themes/automox-doc-theme/layouts/partials/footer.html&#10;faq.cs&#9;FILE&#9;file:///Users/JessicaOwens/workspace/test2/themes/automox-doc-theme/static/stylesheets/faq.css&#10;sytles&#9;FILE&#9;file:///Users/JessicaOwens/workspace/test2/themes/automox-doc-theme/static/stylesheets/style.css&#10;sty&#9;FILE&#9;file:///Users/JessicaOwens/workspace/test2/themes/automox-doc-theme/static/stylesheets/style.css&#10;styl&#9;FILE&#9;file:///Users/JessicaOwens/workspace/test2/themes/automox-doc-theme/static/stylesheets/style.css&#10;styles&#9;null&#9;null" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
@@ -379,7 +284,8 @@
       <workItem from="1519167054311" duration="1688000" />
       <workItem from="1519168863792" duration="1814000" />
       <workItem from="1519170727429" duration="1778000" />
-      <workItem from="1519172536882" duration="447000" />
+      <workItem from="1519172536882" duration="781000" />
+      <workItem from="1519240979563" duration="135000" />
     </task>
     <task id="LOCAL-00001" summary="regenerated public folder">
       <created>1518219389518</created>
@@ -458,11 +364,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519172719248</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="removed colors from icons">
+      <created>1519172992198</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1519172992198</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101588000" />
+    <option name="totallyTimeSpent" value="102057000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="852" extended-state="0" />
@@ -524,7 +437,8 @@
     <MESSAGE value="organize menu by weight" />
     <MESSAGE value="created public folder" />
     <MESSAGE value="Updated the readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the readme" />
+    <MESSAGE value="removed colors from icons" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed colors from icons" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -752,25 +666,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/automox-doc-theme/layouts/partials/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="141" column="53" lean-forward="false" selection-start-line="141" selection-start-column="53" selection-end-line="141" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/automox-doc-theme/static/stylesheets/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="693" column="21" lean-forward="false" selection-start-line="693" selection-start-column="21" selection-end-line="693" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/automox-doc-theme/layouts/_default/list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="39" column="56" lean-forward="false" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -779,7 +678,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
             <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -790,7 +688,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
             <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -801,7 +698,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
             <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -812,7 +708,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
             <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -823,7 +718,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
             <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -834,7 +728,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
             <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -845,7 +738,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="180">
             <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -856,9 +748,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="15">
             <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="6" selection-end-column="9" />
-            <folding>
-              <marker date="1519169824000" expanded="true" signature="4057:4152" ph="..." />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -869,7 +758,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="593">
             <caret line="112" column="26" lean-forward="false" selection-start-line="112" selection-start-column="26" selection-end-line="112" selection-end-column="26" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -879,7 +767,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -887,6 +774,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="64" column="1" lean-forward="false" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/automox-doc-theme/layouts/partials/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-174">
+          <caret line="141" column="53" lean-forward="false" selection-start-line="141" selection-start-column="53" selection-end-line="141" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/automox-doc-theme/static/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="637" column="1" lean-forward="false" selection-start-line="637" selection-start-column="1" selection-end-line="637" selection-end-column="1" />
           <folding />
         </state>
       </provider>

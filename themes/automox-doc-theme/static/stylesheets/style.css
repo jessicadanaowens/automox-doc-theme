@@ -637,10 +637,6 @@ button.copy {
     z-index: 1;
 }
 
-.code-and-button:hover {
-    cursor: pointer;
-}
-
 .code-and-button.display-button button.copy,
 button.copy.display-button {
     opacity: 1;
