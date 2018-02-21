@@ -10,11 +10,11 @@ draft: false
 ***
 {{< faqcolumns >}}
 {{< faqcolumn >}}
-{{< faqsection title="What is Automox?" icon="icon-Automox-Icon">}}
+{{< faqsection title="What is Automox?" icon="icon-custom-software">}}
 Automox is the first cloud-based patching platform that fully automates the patch remediation process across Windows, Mac OS X, Linux, and every third party software - including Adobe, Java, Firefox, Chrome, and Windows. The platform works across both clients and servers. From “click, set, forget” automation, to complete scheduling and workflow control, Automox enables customers greater security, improved productivity, and radical time savings.
 {{< /faqsection >}}
 
-{{< faqsection title="What can I tell my employees about the Automox agent if  they are concerned?" icon="automox-icon">}}
+{{< faqsection title="What can I tell my employees about the Automox agent if  they are concerned?" icon="icon-requirements">}}
 You can let your staff know that the Automox agent is a simple lightweight tool that will ensure that their systems are up to date with all critical patches and that it does not, and will not, snoop, or have access to any sensitive or encrypted data. It is also important to pass along that by using Automox they help to make sure your company is more secure and not the next company in the headlines explaining why they had a data breach.
 {{< /faqsection >}}
 
